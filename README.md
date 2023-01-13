@@ -46,6 +46,7 @@ Add your npm token to your GitHub repository secrets as `NPM_TOKEN`.
 [![Build Status][build-img]][build-url]
 [![Downloads][downloads-img]][downloads-url]
 [![Issues][issues-img]][issues-url]
+[![Commitizen Friendly][commitizen-img]][commitizen-url]
 [![Semantic Release][semantic-release-img]][semantic-release-url]
 
 > My awesome module
@@ -73,5 +74,7 @@ myPackage('hello')
 [npm-url]: https://www.npmjs.com/package/typescript-npm-package-template
 [issues-img]: https://img.shields.io/github/issues/nvogel/typescript-npm-package-template
 [issues-url]: https://github.com/nvogel/typescript-npm-package-template/issues
+[commitizen-img]: https://img.shields.io/badge/commitizen-friendly-brightgreen.svg
+[commitizen-url]: http://commitizen.github.io/cz-cli/
 [semantic-release-img]: https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg
 [semantic-release-url]: https://github.com/semantic-release/semantic-release
